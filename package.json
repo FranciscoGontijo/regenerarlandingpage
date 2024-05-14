@@ -1,0 +1,11 @@
+{
+  "name": "regenerar_landingpage",
+  "version": "1.0.0",
+  "description": "Landing page for the Regenerar company",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Alexandre Cardoso Melo Gontijo",
+  "license": "ISC"
+}
