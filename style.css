@@ -39,7 +39,7 @@ body {
 }
 
 .back-yellow {
-    background-color: #EADB50;
+    background-color: #e6d219;
 }
 
 @media (max-width: 400px) {
@@ -517,4 +517,17 @@ a {
         width: 80%;
         text-align: center;
     }
+}
+
+/* FOOTER */
+footer {
+    background-color: #19435A;
+    color: #F2F2F2;
+    margin-bottom: 0;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    margin-top: 40px;
 }
