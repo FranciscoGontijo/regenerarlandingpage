@@ -35,7 +35,7 @@ body {
 }
 
 .back-blue {
-    background-color: #50B2EA;
+    background-color: rgb(80, 178, 234);
 }
 
 .back-yellow {
@@ -63,7 +63,7 @@ a {
 }
 
 .main-banner-mask {
-    background-color: rgba(50, 185, 238, 0.3);
+    background-color: rgba(80, 178, 234, 0.2);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -471,6 +471,12 @@ a {
 }
 
 /* BUTTONS SECTION */
+.qrcode-image {
+    height: 190px;
+    width: auto;
+    margin-bottom: 40px;
+}
+
 .link-buttons-section {
     display: flex;
     flex-direction: column;
@@ -495,6 +501,10 @@ a {
 }
 
 @media (max-width: 440px) {
+    .qrcode-image {
+        display: none;
+    }
+
     .link-buttons-section h2 {
         font-size: 35px;
     }
