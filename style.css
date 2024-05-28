@@ -254,7 +254,7 @@ a {
 }
 
 .information-image-container {
-    background-image: url('https://s3-alpha-sig.figma.com/img/2ee1/ba03/aedadc8624ca01468d2fd14973e556e2?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=cQWP4kdcTvnfDVw4DWf5o5TPP-hUiJr91umnmlpscUjHgsqp7Ij7FL9TvfpXr3pi0Trq~520pYSNQPm7dug0PT7tL5S26sQr8F2EXMawoPFkjecsxMLrl9t8xtgM-6T8ZRznFpHhqaa98ExnyeSjPbVBG1zFO14A9FC-QR~CZ977IL8iU9tSE6kEmM1PqXSZcnDJ5B5YTnVzfJn~l0yCrCm80U5aFs8TFsHfV3aZlPJZZyFRSnpxKsjbzyetkFY7w5QOmIDKKXPJ4JXAnBGJm0USIOKcfdFw32-GkTFKsukmVUF~xOtlvMQYAnms5NP02DJPaZI5kbcT1jrSqP7lfw__');
+    background-image: url('./assets/list-image.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
